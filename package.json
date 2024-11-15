@@ -1,0 +1,27 @@
+{
+    "name": "com.stormrider31.storm-breakers",
+    "version": "2.0.0",
+    "displayName": "Storm Breakers",
+    "description": "Storm Breakers is an Unity package to make epic ocean simulation, featuring a unique wave model, realistic breaking waves with visual, audio and physical effect, an extra-documented buoyancy physics adjustable for any gameplay, a scalable splash visual effect synchronized to procedural audio, and a dynamically textured water with realistic rendering.",
+    "unity": "2021.1",
+    "documentationUrl": "https://drive.google.com/file/d/1A5XbOAvHWfiMiMZtGxcHmCtJ-5Q6_i2Q/view",
+    "changelogUrl": "https://raw.githubusercontent.com/Stormrider31/Storm-Breakers/refs/heads/main/change%20log.txt",
+    "license": "CC0-1.0",
+    "licensesUrl": "https://raw.githubusercontent.com/seanj29/Storm-Breakers/refs/heads/main/LICENSE",
+    "dependencies": {
+      "com.unity.visualeffectgraph": "17.0.3",
+      "com.unity.render-pipelines.universal": "17.0.3"
+   },
+   "hideInEditor": false,
+   "keywords": [
+      "Waves",
+      "Oceon",
+      "Surfing",
+      "Water",
+      "Surf"
+    ],
+    "author": {
+      "name": "Lysandre",
+      "email": "lysandre.creations@gmail.com"
+    }
+  }
